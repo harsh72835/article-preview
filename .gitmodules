@@ -1,0 +1,3 @@
+[submodule "article-preview"]
+	path = article-preview
+	url = https://github.com/harsh72835/article-preview
